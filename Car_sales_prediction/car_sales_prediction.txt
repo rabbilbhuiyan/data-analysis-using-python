@@ -1,0 +1,29 @@
+# Predicting car sales price using Cardekho data set
+Problem statement of the project: Finding the second hand car sales price
+
+# 1. First careat a new environment at anacoda (it could be done for any new project)
+ - Reason for creating new environment: there will be lot of libraries to installed at that environemnt
+ - becAUSE each and every project has dependency of diffferent libraries, so it good to utilize the only 
+	libraries for that project
+ # How to creat anaconda environment
+  - open anaconda prompt (by default the environemnt is 'base' - so need to change it
+  - write 'create -n myenv python=3.7' (change myenv as your env e.g carprediction, also python version if needed)
+  - enter
+  - then write 'y'
+  
+  - now have to activate the environment after that
+  - activate myenv(carprediction)
+  
+ 2. Working directory (launch jupyter notebook)
+  - then change the patah (to same working path)
+  - d:
+  - cd D:\ML_project\Car_sales_prediction
+  - write 'dir' - you can see all the directories 
+  
+  -- now running jupyter notebook for this particular path and environment
+  - just write 'jupyter notebook' + enter
+  
+  
+  For opening pyspark : the procedure is same( anaconda prompt -> directiory path -> pyspark)
+  
+ 3. creating model
