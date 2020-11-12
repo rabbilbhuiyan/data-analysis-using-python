@@ -3,7 +3,7 @@
 This project is about learning basic of ApacheSpark. In this project, I applied most common machine learning models e.g classification, clustering, prediction analysis and NLP using PySpark.
 
 ### Machine learning project - Predictive modelling
-In this projet I applied different regression algorithms to predict the price of second hand care.
+In this projet I applied different regression algorithms to predict the price of second hand car.
 
 ### Deep learning project - Multi-class image classification using Convolutional Neural Networks (CNN)
 This project is made for the Analytical Service Development course of Master of Engineering in Big Data Analytics at Arcada University of Applied Sciences, Helsinki. The aim of this work was to build a model that can classify whether an image is handgun, rifle or other using convolutional neural networks (CNN). The project also aimed to identify the best image augmentation parameter in improving the multi-class classifier or CNN model.
