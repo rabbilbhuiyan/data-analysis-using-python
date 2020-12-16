@@ -1,0 +1,21 @@
+Sci-kit learn packages in Machine Learning process
+ 
+Macine Learning process:
+
+What question are we trying to answer -> Find data to help answer question -> Process data -> Build model -> Evaluate model -> Improve the model further
+
+Sci-kit learn simplify the entire pipeline of ML process
+
+Scikit-learn is a simple and efficent tools for data mining an data analysis. e.g
+1. Classfication
+2. Regression
+3. Clustering
+4. Dimensionality reduciton
+5. Model selection
+6. Preprocessing
+
+
+Two kinds of machine learning model e.g
+1. Tradional, Algorithmic models -> Sci-Kit learn
+2. Neural Network Models/ deep learning -> Tensorflow, pytorch
+
