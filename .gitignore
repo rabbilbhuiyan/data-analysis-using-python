@@ -1,0 +1,4 @@
+/src/notebooks
+/scripts/ingest/.ipynb*
+/scripts/preparation/.ipynb*
+/scripts/modeling/.ipynb*
